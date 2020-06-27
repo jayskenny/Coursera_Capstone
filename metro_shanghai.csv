@@ -1,0 +1,423 @@
+1,Minhang,Xinzhuang,31.111193,121.385379
+2,Minhang,Waihuanlu,31.121413,121.393071
+3,Minhang,Lianhua Road,31.130805,121.403507
+4,Xuhui,Jinjiang Park,31.142217,121.414107
+5,Xuhui,Shanghai South Railway Station,31.154579,121.430041
+6,Xuhui,Caobao Road,31.168344,121.433143
+7,Xuhui,Shanghai Indoor Stadium,31.182813,121.437423
+8,Xuhui,Xujiahui,31.19454,121.4379
+9,Xuhui,Hengshan Road,31.2046,121.4465
+10,Xuhui,Changshu Road,31.213524,121.449141
+11,Huangpu,South Shaanxi Road,31.217863,121.46102
+12,Huangpu,South Huangpi Road,31.222745,121.473306
+13,Huangpu,People's Square,31.233089,121.473901
+14,Huangpu,Xinzha Road,31.238373,121.468151
+15,Jing'an,Hanzhong Road,31.241883,121.458699
+16,Jing'an,Shanghai Railway Station,31.247935,121.45557
+17,Jing'an,North Zhongshan Road,31.258891,121.459204
+18,Jing'an,Yanchang Road,31.271675,121.455329
+19,Jing'an,Shanghai Circus World,31.278945,121.453081
+20,Jing'an,Wenshui Road,31.292556,121.450251
+21,Jing'an,Pengpu Xincun,31.306678,121.449
+22,Jing'an,Gongkang Road,31.318936,121.447063
+23,Baoshan,Tonghe Xincun,31.33113,121.441546
+24,Baoshan,Hulan Road,31.339703,121.437711
+25,Baoshan,Gongfu Xincun,31.355082,121.434063
+26,Baoshan,Bao'an Highway,31.369555,121.430914
+27,Baoshan,West Youyi Road,31.381296,121.427953
+28,Baoshan,Fujin Road,31.39226,121.424661
+29,Qingpu,East Xujing,31.188367,121.299204
+30,Minhang,Hongqiao Railway Station,31.193987,121.31891
+31,Minhang,Hongqiao Airport Terminal 2,31.193926,121.326508
+32,Changning,Songhong Road,31.218212,121.359588
+33,Changning,Beixinjing,31.216395,121.373998
+34,Changning,Weining Road,31.21487,121.387285
+35,Changning,Loushanguan Road,31.211158,121.404058
+36,Changning,Zhongshan Park,31.218014,121.415741
+37,Changning,Jiangsu Road,31.220411,121.430642
+38,Jing'an,Jing'an Temple,31.223083,121.446221
+39,Jing'an,West Nanjing Road,31.229853,121.459971
+40,Huangpu,People's Square,31.233089,121.473901
+41,Huangpu,East Nanjing Road,31.238101,121.484628
+42,Pudong,Lujiazui,31.238195,121.502262
+43,Pudong,Dongchang Road,31.23327,121.515556
+44,Pudong,Century Avenue,31.228682,121.527213
+45,Pudong,Shanghai Science and Technology Museum,31.219749,121.543176
+46,Pudong,Century Park,31.208893,121.551341
+47,Pudong,Longyang Road,31.203147,121.556862
+48,Pudong,Zhangjiang Hi-Tech Park,31.201807,121.588395
+49,Pudong,Jinke Road,31.203789,121.601378
+50,Pudong,Guanglan Road [f],31.210978,121.621976
+51,Pudong,Tangzhen,31.213952,121.656724
+52,Pudong,Middle Chuangxin Road,31.213871,121.673713
+53,Pudong,East Huaxia Road,31.196553,121.681098
+54,Pudong,Chuansha,31.1864,121.697817
+55,Pudong,Lingkong Road,31.192826,121.723791
+56,Pudong,Yuandong Avenue,31.199375,121.755368
+57,Pudong,Haitiansan Road,31.168459,121.796878
+58,Pudong,Pudong International Airport,31.149596,121.806436
+59,Xuhui,Shanghai South Railway Station,31.154579,121.430041
+60,Xuhui,Shilong Road,31.157949,121.443205
+61,Xuhui,Longcao Road,31.170072,121.444115
+62,Xuhui,Caoxi Road,31.177154,121.437722
+63,Xuhui,Yishan Road,31.186422,121.427615
+64,Changning,Hongqiao Road,31.197524,121.420814
+65,Changning,West Yan'an Road,31.209616,121.417062
+66,Changning,Zhongshan Park,31.218014,121.415741
+67,Putuo,Jinshajiang Road,31.232229,121.413348
+68,Putuo,Caoyang Road,31.239712,121.418413
+69,Putuo,Zhenping Road,31.24645,121.429721
+70,Putuo,Zhongtan Road,31.254423,121.440672
+71,Jing'an,Shanghai Railway Station,31.247935,121.45557
+72,Jing'an,Baoshan Road,31.251523,121.476298
+73,Hongkou,Dongbaoxing Road,31.259886,121.480202
+74,Hongkou,Hongkou Football Stadium,31.271392,121.479154
+75,Hongkou,Chifeng Road,31.281247,121.482429
+76,Hongkou,Dabaishu,31.289433,121.483216
+77,Hongkou,Jiangwan Town,31.305819,121.485162
+78,Baoshan,West Yingao Road,31.320005,121.484856
+79,Baoshan,South Changjiang Road,31.332062,121.491482
+80,Baoshan,Songfa Road,31.344438,121.500249
+81,Baoshan,Zhanghuabang,31.358016,121.498671
+82,Baoshan,Songbin Road,31.370928,121.492818
+83,Baoshan,Shuichan Road,31.381302,121.488247
+84,Baoshan,Baoyang Road,31.395315,121.479574
+85,Baoshan,Youyi Road,31.404016,121.475924
+86,Baoshan,Tieli Road,31.40812,121.461139
+87,Baoshan,North Jiangyang Road,31.407858,121.439819
+88,Xuhui,Yishan Road,31.186422,121.427615
+89,Changning,Hongqiao Road,31.197524,121.420814
+90,Changning,West Yan'an Road,31.209616,121.417062
+91,Changning,Zhongshan Park,31.218014,121.415741
+92,Putuo,Jinshajiang Road,31.232229,121.413348
+93,Putuo,Caoyang Road,31.239712,121.418413
+94,Putuo,Zhenping Road,31.24645,121.429721
+95,Putuo,Zhongtan Road,31.254423,121.440672
+96,Jing'an,Shanghai Railway Station,31.247935,121.45557
+97,Jing'an,Baoshan Road,31.251523,121.476298
+98,Hongkou,Hailun Road,31.259368,121.489755
+99,Hongkou,Linping Road,31.261182,121.500689
+100,Hongkou,Dalian Road,31.258221,121.513837
+101,Yangpu,Yangshupu Road,31.25169,121.517697
+102,Pudong,Pudong Avenue,31.239974,121.519385
+103,Pudong,Century Avenue,31.228682,121.527213
+104,Pudong,Pudian Road,31.222285,121.53208
+105,Pudong,Lancun Road,31.211672,121.527627
+106,Pudong,Tangqiao,31.210162,121.518325
+107,Huangpu,Nanpu Bridge,31.208504,121.499725
+108,Huangpu,South Xizang Road,31.201967,121.489555
+109,Huangpu,Luban Road,31.199221,121.475148
+110,Xuhui,Damuqiao Road,31.194439,121.463403
+111,Xuhui,Dong'an Road,31.190819,121.454897
+112,Xuhui,Shanghai Stadium,31.185605,121.443529
+113,Xuhui,Shanghai Indoor Stadium,31.182813,121.437423
+114,Minhang,Xinzhuang,31.111193,121.385379
+115,Minhang,Chunshen Road,31.1,121.381
+116,Minhang,Yindu Road,31.0911,121.385
+117,Minhang,Zhuanqiao,31.0686,121.397
+118,Minhang,Beiqiao,31.0469,121.405
+119,Minhang,Jianchuan Road,31.0281,121.412
+120,Minhang,Dongchuan Road,31.02015,121.415206
+121,Minhang,Jiangchuan Road,31.007285,121.418883
+122,Fengxian,Xidu,30.99105,121.427932
+123,Fengxian,Xiaotang,30.967986,121.437297
+124,Fengxian,Fengpu Avenue,30.944055,121.444405
+125,Fengxian,Huanchengdong Road,30.933035,121.458852
+126,Fengxian,Wangyuan Road,30.93419,121.478341
+127,Fengxian,Jinhai Lake,30.931641,121.487621
+128,Fengxian,Fengxian Xincheng,30.919027,121.490876
+129,Minhang,Jinping Road,31.0131,121.405
+130,Minhang,Huaning Road,31.0092,121.39
+131,Minhang,Wenjing Road,31.0053,121.376
+132,Minhang,Minhang Development Zone,31.0025,121.365
+133,Pudong,Gangcheng Road,31.355,121.57
+134,Pudong,North Waigaoqiao Free Trade Zone,31.3497,121.583
+135,Pudong,Hangjin Road,31.3372,121.59
+136,Pudong,South Waigaoqiao Free Trade Zone,31.3236,121.598
+137,Pudong,Zhouhai Road,31.3144,121.585
+138,Pudong,Wuzhou Avenue,31.3047,121.585
+139,Pudong,Dongjing Road,31.2928,121.584
+140,Pudong,Jufeng Road,31.2828,121.584
+141,Pudong,Wulian Road,31.2739,121.583
+142,Pudong,Boxing Road,31.2656,121.582
+143,Pudong,Jinqiao Road,31.2592,121.577
+144,Pudong,Yunshan Road,31.2525,121.568
+145,Pudong,Deping Road,31.2475,121.559
+146,Pudong,Beiyangjing Road,31.241111,121.5475
+147,Pudong,Minsheng Road,31.23806,121.53861
+148,Pudong,Yuanshen Stadium,31.235,121.52972
+149,Pudong,Century Avenue,31.228682,121.527213
+150,Pudong,Pudian Road,31.2244,121.528
+151,Pudong,Lancun Road,31.211672,121.527627
+152,Pudong,Shanghai Children's Medical Center,31.2047,121.519
+153,Pudong,Linyi Xincun,31.19472,121.51167
+154,Pudong,West Gaoke Road,31.1872,121.505
+155,Pudong,Dongming Road,31.175,121.50611
+156,Pudong,Gaoqing Road,31.15861,121.5125
+157,Pudong,West Huaxia Road,31.15278,121.51333
+158,Pudong,Shangnan Road,31.15083,121.50194
+159,Pudong,South Lingyan Road,31.1508,121.49
+160,Pudong,Oriental Sports Center,31.1553389,121.4757889
+161,Baoshan,Meilan Lake,31.4036,121.345
+162,Baoshan,Luonan Xincun,31.3906,121.353
+163,Baoshan,Panguang Road,31.3653,121.351
+164,Baoshan,Liuhang,31.35889,121.35778
+165,Baoshan,Gucun Park,31.346389,121.368056
+166,Baoshan,Qihua Road,31.32417,121.36861
+167,Baoshan,Shanghai University,31.3219,121.382
+168,Baoshan,Nanchen Road,31.32333,121.39306
+169,Baoshan,Shangda Road,31.3153,121.404
+170,Baoshan,Changzhong Road,31.305,121.40833
+171,Baoshan,Dachang Town,31.295,121.41139
+172,Baoshan,Xingzhi Road,31.28611,121.41667
+173,Baoshan,Dahuasan Road,31.2764,121.418
+174,Putuo,Xincun Road,31.26583,121.4175
+175,Putuo,Langao Road,31.25833,121.41694
+176,Putuo,Zhenping Road,31.24645,121.429721
+177,Putuo,Changshou Road,31.24194,121.43333
+178,Jing'an,Changping Road,31.23639,121.43722
+179,Jing'an,Jing'an Temple,31.223083,121.446221
+180,Xuhui,Changshu Road,31.213524,121.449141
+181,Xuhui,Zhaojiabang Road,31.2014,121.445
+182,Xuhui,Dong'an Road,31.190819,121.454897
+183,Xuhui,Middle Longhua Road,31.185,121.453
+184,Pudong,Houtan,31.1742,121.469
+185,Pudong,Changqing Road,31.1772,121.483
+186,Pudong,Yaohua Road,31.1803,121.489
+187,Pudong,Yuntai Road,31.1838,121.495
+188,Pudong,West Gaoke Road,31.1872,121.505
+189,Pudong,South Yanggao Road,31.19,121.51861
+190,Pudong,Jinxiu Road,31.1897,121.5347
+191,Pudong,Fanghua Road,31.19556,121.54583
+192,Pudong,Longyang Road,31.203147,121.556862
+193,Pudong,Huamu Road,31.21222,121.55861
+194,Yangpu,Shiguang Road,31.323611,121.5275
+195,Yangpu,Nenjiang Road,31.3161,121.527
+196,Yangpu,Xiangyin Road,31.3075,121.527
+197,Yangpu,Huangxing Park,31.2975,121.529
+198,Yangpu,Middle Yanji Road,31.2897,121.531
+199,Yangpu,Huangxing Road,31.2811,121.524
+200,Yangpu,Jiangpu Road,31.2772,121.512
+201,Yangpu,Anshan Xincun,31.2753,121.504
+202,Yangpu,Siping Road,31.2769,121.497
+203,Hongkou,Quyang Road,31.2781,121.485
+204,Hongkou,Hongkou Football Stadium,31.271392,121.479154
+205,Jing'an,North Xizang Road,31.2675,121.467
+206,Jing'an,Zhongxing Road,31.2553,121.464
+207,Jing'an,Qufu Road,31.2447,121.467
+208,Huangpu,People's Square,31.233089,121.473901
+209,Huangpu,Dashijie,31.2294,121.473
+210,Huangpu,Laoximen,31.22083,121.47833
+211,Huangpu,Lujiabang Road,31.2139,121.481
+212,Huangpu,South Xizang Road,31.201967,121.489555
+213,Pudong,China Art Museum,31.18639,121.49028
+214,Pudong,Yaohua Road,31.1803,121.489
+215,Pudong,Chengshan Road,31.1722,121.491
+216,Pudong,Yangsi,31.1628,121.489
+217,Pudong,Oriental Sports Center,31.1553389,121.4757889
+218,Pudong,Lingzhao Xincun,31.1425,121.485
+219,Minhang,Luheng Road,31.12,121.494
+220,Minhang,Pujiang Town,31.0983,121.502
+221,Minhang,Jiangyue Road,31.0861,121.504
+222,Minhang,Lianhang Road,31.0756,121.506
+223,Minhang,Shendu Highway,31.0636,121.507
+224,Songjiang,Songjiang South Railway Station,30.986935,121.226362
+225,Songjiang,Zuibaichi Park,31.001,121.229
+226,Songjiang,Songjiang Sports Center,31.015,121.23
+227,Songjiang,Songjiang Xincheng,31.03278,121.22611
+228,Songjiang,Songjiang University Town,31.05639,121.22861
+229,Songjiang,Dongjing,31.0869,121.226
+230,Songjiang,Sheshan,31.10642,121.22533
+231,Songjiang,Sijing,31.1328,121.261
+232,Songjiang,Jiuting,31.1394,121.314
+233,Minhang,Zhongchun Road,31.1503,121.331
+234,Minhang,Qibao,31.1569,121.343
+235,Minhang,Xingzhong Road,31.1603,121.364
+236,Minhang,Hechuan Road,31.166701,121.384818
+237,Xuhui,Caohejing Hi-Tech Park,31.1728,121.393
+238,Xuhui,Guilin Road,31.1767,121.412
+239,Xuhui,Yishan Road,31.186422,121.427615
+240,Xuhui,Xujiahui,31.19454,121.4379
+241,Xuhui,Zhaojiabang Road,31.2014,121.445
+242,Xuhui,Jiashan Road,31.2027,121.461
+243,Huangpu,Dapuqiao,31.2075,121.46389
+244,Huangpu,Madang Road,31.2114,121.472
+245,Huangpu,Lujiabang Road,31.2139,121.481
+246,Huangpu,Xiaonanmen,31.2192,121.494
+247,Pudong,Shangcheng Road,31.23306,121.50972
+248,Pudong,Century Avenue,31.228682,121.527213
+249,Pudong,Middle Yanggao Road,31.22972,121.54444
+250,Pudong,Fangdian Road,31.233944,121.554306
+251,Pudong,Lantian Road,31.243201,121.573755
+252,Pudong,Taierzhuang Road,31.255058,121.593795
+253,Pudong,Jinqiao,31.263056,121.606716
+254,Pudong,Jinji Road,31.266499,121.624716
+255,Pudong,Jinhai Road,31.2634,121.6385
+256,Pudong,Gutang Road,31.268179,121.652136
+257,Pudong,Minlei Road,31.27049,121.663841
+258,Pudong,Caolu,31.273402,121.67867
+259,Minhang,Hangzhong Road,31.16694,121.34917
+260,Minhang,Ziteng Road,31.17111,121.35944
+261,Minhang,Longbai Xincun,31.16694,121.34917
+262,Minhang,Hongqiao Railway Station,31.193987,121.31891
+263,Minhang,Hongqiao Airport Terminal 2,31.193926,121.326508
+264,Changning,Hongqiao Airport Terminal 1,31.1933,121.342
+265,Changning,Shanghai Zoo,31.19222,121.36306
+266,Changning,Longxi Road,31.19583,121.375
+267,Changning,Shuicheng Road,31.20111,121.38694
+268,Changning,Yili Road,31.20056,121.39944
+269,Changning,Songyuan Road,31.19833,121.40722
+270,Changning,Hongqiao Road,31.197524,121.420814
+271,Xuhui,Jiaotong University,31.2039,121.43
+272,Xuhui,Shanghai Library,31.209444,121.438611
+273,Huangpu,South Shaanxi Road,31.217863,121.46102
+274,Huangpu,Xintiandi,31.21833,121.47
+275,Huangpu,Laoximen,31.22083,121.47833
+276,Huangpu,Yuyuan Garden,31.2303,121.482
+277,Huangpu,East Nanjing Road,31.238101,121.484628
+278,Hongkou,Tiantong Road,31.24528,121.47722
+279,Hongkou,North Sichuan Road,31.251956,121.483984
+280,Hongkou,Hailun Road,31.259368,121.489755
+281,Hongkou,Youdian Xincun,31.27028,121.48972
+282,Yangpu,Siping Road,31.2769,121.497
+283,Yangpu,Tongji University,31.28444,121.50222
+284,Yangpu,Guoquan Road,31.29139,121.50556
+285,Yangpu,Wujiaochang,31.30028,121.51056
+286,Yangpu,Jiangwan Stadium,31.30583,121.50944
+287,Yangpu,Sanmen Road,31.3153,121.503
+288,Yangpu,East Yingao Road,31.3236,121.502
+289,Yangpu,Xinjiangwancheng,31.3303,121.502
+290,Pudong,Disney Resort,31.143429,121.663737
+291,Pudong,Kangxin Highway,31.1325,121.61306
+292,Pudong,Xiuyan Road,31.14028,121.59417
+293,Pudong,Luoshan Road,31.1521,121.5937
+294,Pudong,Yuqiao,31.158,121.571
+295,Pudong,Pusan Road,31.1509,121.5387
+296,Pudong,East Sanlin,31.1464,121.5231
+297,Pudong,Sanlin,31.1454,121.5079
+298,Pudong,Oriental Sports Center,31.1553389,121.4757889
+299,Xuhui,Longyao Road,31.16,121.4592
+300,Xuhui,Yunjin Road,31.166348,121.458495
+301,Xuhui,Longhua,31.1724,121.4524
+302,Xuhui,Shanghai Swimming Center,31.179,121.441
+303,Xuhui,Xujiahui,31.19454,121.4379
+304,Xuhui,Jiaotong University,31.2039,121.43
+305,Changning,Jiangsu Road,31.220411,121.430642
+306,Putuo,Longde Road,31.229601,121.42128
+307,Putuo,Caoyang Road,31.239712,121.418413
+308,Putuo,Fengqiao Road,31.24185,121.411402
+309,Putuo,Zhenru,31.252739,121.402545
+310,Putuo,West Shanghai Railway Station,31.264718,121.396192
+311,Putuo,Liziyuan,31.26902,121.389969
+312,Putuo,Qilianshan Road,31.27165,121.376035
+313,Putuo,Wuwei Road,31.276646,121.364678
+314,Putuo,Taopu Xincun,31.281809,121.35031
+315,Jiading,Nanxiang,31.296952,121.323141
+316,Jiading,Malu,31.319675,121.276906
+317,Jiading,Jiading Xincheng,31.330841,121.254044
+318,Jiading,Baiyin Road,31.34694,121.24056
+319,Jiading,West Jiading,31.37889,121.22306
+320,Jiading,North Jiading,31.3933,121.232
+321,Jiading,Shanghai Circuit,31.331898,121.226098
+322,Jiading,East Changji Road,31.29362,121.200384
+323,Jiading,Shanghai Automobile City,31.28722,121.17611
+324,Jiading,Anting,31.29028,121.15694
+325,Jiading,Zhaofeng Road,31.2909,121.1454
+326,Jiading,Guangming Road,31.2981,121.1125
+327,Jiading,Huaqiao,31.3006,121.0998
+328,Pudong,Jinhai Road,31.2634,121.6385
+329,Pudong,Shenjiang Road,31.28,121.626
+330,Pudong,Jinjing Road,31.2797,121.6154
+331,Pudong,North Yanggao Road,31.2801,121.6031
+332,Pudong,Jufeng Road,31.2828,121.584
+333,Pudong,Donglu Road,31.2823,121.5789
+334,Yangpu,Fuxing Island,31.2806,121.561
+335,Yangpu,Aiguo Road,31.2797,121.5526
+336,Yangpu,Longchang Road,31.2754,121.5448
+337,Yangpu,Ningguo Road,31.2688,121.5327
+338,Yangpu,Jiangpu Park,31.2645,121.5237
+339,Yangpu,Dalian Road,31.258221,121.513837
+340,Hongkou,Tilanqiao,31.2535,121.5066
+341,Hongkou,International Cruise Terminal,31.25194,121.49361
+342,Hongkou,Tiantong Road,31.24528,121.47722
+343,Jing'an,Qufu Road,31.2447,121.467
+344,Jing'an,Hanzhong Road,31.241883,121.458699
+345,Jing'an,West Nanjing Road,31.229853,121.459971
+346,Huangpu,South Shaanxi Road,31.217863,121.46102
+347,Xuhui,Jiashan Road,31.2027,121.461
+348,Xuhui,Damuqiao Road,31.194439,121.463403
+349,Xuhui,Middle Longhua Road,31.185,121.453
+350,Xuhui,Longhua,31.1724,121.4524
+351,Xuhui,Longcao Road,31.170072,121.444115
+352,Xuhui,Caobao Road,31.168344,121.433143
+353,Xuhui,Guilin Park,31.16917,121.41528
+354,Xuhui,Hongcao Road,31.16583,121.40583
+355,Xuhui,Hongmei Road,31.16194,121.39111
+356,Minhang,Donglan Road,31.1575,121.38722
+357,Minhang,Gudai Road,31.14278,121.3875
+358,Minhang,Hongxin Road,31.13972,121.37611
+359,Minhang,Qixin Road,31.13306,121.3575
+360,Jiading,Jinyun Road,31.243025,121.315
+361,Jiading,West Jinshajiang Road,31.243089,121.33066
+362,Jiading,Fengzhuang,31.2434472,121.3510472
+363,Putuo,South Qilianshan Road,31.2395103,121.3627051
+364,Putuo,Zhenbei Road,31.2487167,121.384125
+365,Putuo,Daduhe Road,31.234454,121.375676
+366,Putuo,Jinshajiang Road,31.232229,121.413348
+367,Putuo,Longde Road,31.229601,121.42128
+368,Putuo,Wuning Road,31.2358,121.4258
+369,Putuo,Changshou Road,31.24194,121.43333
+370,Putuo,Jiangning Road,31.24611,121.44
+371,Jing'an,Hanzhong Road,31.241883,121.458699
+372,Jing'an,Shanghai Natural History Museum,31.23833,121.45778
+373,Jing'an,West Nanjing Road,31.229853,121.459971
+374,Huangpu,Middle Huaihai Road,31.22194,121.45972
+375,Huangpu,Xintiandi,31.21833,121.47
+376,Huangpu,Madang Road,31.2114,121.472
+377,Huangpu,World Expo Museum,31.19944,121.47722
+378,Pudong,Shibo Avenue,31.185,121.47917
+379,Pudong,Changqing Road,31.1772,121.483
+380,Pudong,Chengshan Road,31.1722,121.491
+381,Pudong,Dongming Road,31.175,121.50611
+382,Pudong,Huapeng Road,31.1787,121.5226
+383,Pudong,Xianan Road,31.1815,121.5361
+384,Pudong,Beicai,31.1824,121.5479
+385,Pudong,Chenchun Road,31.1771,121.5539
+386,Pudong,Lianxi Road,31.1713,121.562
+387,Pudong,Middle Huaxia Road,31.177873,121.578874
+388,Pudong,Zhongke Road,31.181,121.5964
+389,Pudong,Xuelin Road,31.1858,121.6104
+390,Pudong,Zhangjiang Road,31.1914,121.6258
+391,Pudong,Longyang Road,31.203147,121.556862
+392,Pudong,Middle Huaxia Road,31.177873,121.578874
+393,Pudong,Luoshan Road,31.1521,121.5937
+394,Pudong,East Zhoupu,31.109,121.6064
+395,Pudong,Heshahangcheng,31.0774,121.6097
+396,Pudong,East Hangtou,31.054,121.617
+397,Pudong,Xinchang,31.0449,121.648
+398,Pudong,Wild Animal Park,31.049,121.709
+399,Pudong,Huinan,31.0534,121.7621
+400,Pudong,East Huinan,31.0268,121.794
+401,Pudong,Shuyuan,30.9595,121.85
+402,Pudong,Lingang Avenue,30.9242,121.91
+403,Pudong,Dishui Lake,30.9071,121.9297
+404,Minhang,Hongqiao Railway Station,31.193987,121.31891
+405,Qingpu,Zhuguang Road,31.193939,121.287969
+406,Qingpu,Panlong Road,31.188402,121.273932
+407,Qingpu,Xuying Road,31.180108,121.249535
+408,Qingpu,Xujingbeicheng,31.177549,121.237261
+409,Qingpu,Middle Jiasong Road,31.166114,121.219458
+410,Qingpu,Zhaoxiang,31.163237,121.187759
+411,Qingpu,Huijin Road,31.163127,121.147401
+412,Qingpu,Qingpu Xincheng,31.160823,121.120926
+413,Qingpu,Caoying Road,31.162284,121.091737
+414,Qingpu,Dianshanhu Avenue,31.135891,121.076337
+415,Qingpu,Zhujiajiao,31.102531,121.044451
+416,Qingpu,Oriental Land,31.10058,121.015133
+417,Minhang,Shendu Highway,31.0636,121.507
+418,Minhang,Sanlu Highway,31.058302,121.523024
+419,Minhang,Minrui Road,31.058302,121.523024
+420,Minhang,Puhang Road,31.043175,121.526285
+421,Minhang,Dongchengyi Road,31.032639,121.527812
+422,Minhang,Huizhen Road,31.027442,121.520311
+
